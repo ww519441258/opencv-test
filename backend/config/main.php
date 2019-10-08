@@ -22,6 +22,9 @@ return [
             'downloadAction' => '/gridview/export/download',//解决vendor里的内容导出问题
             'i18n' => [],
         ],
+        'opencvtest' => [
+            'class' => 'travis\opencvtest\Module',
+        ]
     ],
     'aliases' => [
         '@kcdev/yii2/web' => "@vendor/kcdev/yii2/web",

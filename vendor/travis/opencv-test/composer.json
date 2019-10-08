@@ -1,0 +1,21 @@
+{
+    "name": "opencvtest/opencv-test",
+    "description": "php-opencv样例",
+    "type": "yii2-extension",
+    "keywords": ["opencvtest","php-opencvtest"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "travis",
+            "email": "310243791@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "travis\\opencvtest\\": ""
+        }
+    }
+}

@@ -12,5 +12,6 @@ return [
         'config' => ['class' => 'kcdev\iron\config\Config'],
         'wechat' => ['class' => 'kcdev\iron\wechat\WeChat'],
         'image' => ['class' => 'kcdev\cgb\image\ImageManage'],
+        'opencvtest' => ['class' => 'travis\opencvtest\components\OpencvManager'],
     ],
 ];

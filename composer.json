@@ -49,7 +49,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "kcdev\\":"vendor/kcdev/"
+            "kcdev\\": "vendor/kcdev/",
+            "travis\\opencvtest\\": "vendor/travis/opencv-test/src"
         }
     }
 }

@@ -125,6 +125,14 @@ return [
                         'GET page-layout' => 'page-layout',
                     ]
                 ],
+                [
+                    'class' => 'yii\rest\UrlRule',
+                    'controller' => 'opencv',
+                    'pluralize' => false,
+                    'extraPatterns' => [
+                        'GET cascade-classifier' => 'cascade-classifier',
+                    ]
+                ],
             ],
         ],
         'authManager' => [
