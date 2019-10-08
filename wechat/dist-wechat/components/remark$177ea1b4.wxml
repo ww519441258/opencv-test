@@ -1,0 +1,2 @@
+<import src="../components/slots.wxml" />
+<template name="remark$177ea1b4"><view class="_div con-h2 {{ h[ 0 ].rcl }} v-6c9cbe1e"><label class="_span v-6c9cbe1e"></label> <view class="_div con-h2-text2 v-6c9cbe1e"></view> <label class="_span v-6c9cbe1e"><label class="_span h2red v-6c9cbe1e">{{ h[ 7 ].t }}</label></label></view></template>

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "site-cell": "../../components/SiteCell/index",
+    "loading": "../../components/Loading/index"
+  },
+  "navigationBarTitleText": "选择自提点"
+}

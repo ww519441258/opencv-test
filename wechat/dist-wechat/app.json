@@ -1,0 +1,53 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/distribution/binding/binding",
+    "pages/order/main",
+    "pages/userDefined/main",
+    "pages/order/details/main",
+    "pages/seckill/index/main",
+    "pages/groupbooking/index/main",
+    "pages/exchange/index/main",
+    "pages/presell/main",
+    "pages/recharge/main",
+    "pages/rechargeLog/main",
+    "pages/verifyInfo/main",
+    "pages/comment/main",
+    "pages/pay/main",
+    "pages/addressAdd/main",
+    "pages/coupon/main",
+    "pages/myCoupon/main",
+    "pages/house/main",
+    "pages/season/main",
+    "pages/only/main",
+    "pages/collocation/main",
+    "pages/personal/main",
+    "pages/details/main",
+    "pages/authorize/main",
+    "pages/address/main",
+    "pages/cart/main",
+    "pages/classify/main"
+  ],
+  "subPackages": [
+    {
+      "root": "packageA",
+      "pages": [
+        "pages/distribution/index/main",
+        "pages/distribution/commissionLog/main",
+        "pages/distribution/order/main",
+        "pages/distribution/qrcode/main",
+        "pages/distribution/commissionAmount/main",
+        "pages/distribution/subordinate/main",
+        "pages/afterSale/main",
+        "pages/afterSale/formFilling/main"
+      ]
+    }
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "kcshop",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  }
+}

@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="rate"><text wx:key="item" class="{{'iconfont ' + (index < value ? 'icon-star-fill' : 'icon-star')}}" bindtap="onChange" wx:for="{{number}}" wx:for-item="item" wx:for-index="index" data-e-tap-so="this" data-e-tap-a-a="{{index + 1}}"></text></view></block>

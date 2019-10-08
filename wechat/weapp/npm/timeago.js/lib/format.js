@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.format=void 0;var _date=require("./utils/date.js"),_locales=require("./locales.js"),format=function(e,t,r){var a=(0,_date.diffSec)(e,r);return(0,_date.formatDiff)(a,(0,_locales.getLocale)(t))};exports.format=format;

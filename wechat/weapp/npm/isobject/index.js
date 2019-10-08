@@ -1,0 +1,1 @@
+"use strict";module.exports=function(r){return null!=r&&"object"==typeof r&&!1===Array.isArray(r)};

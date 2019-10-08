@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "user-cell": "../../../../components/UserCell/index",
+    "goods-cell": "../../../../components/GoodsCell/index",
+    "cell": "../../../../components/Cell/index"
+  }
+}

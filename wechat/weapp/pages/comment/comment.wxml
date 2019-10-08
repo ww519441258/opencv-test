@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="comment"><form class="create-comment" bindsubmit="onSubmit"><rate compid="{{$compid__91}}"></rate><textarea name="content" placeholder="快来评论吧"></textarea><upload compid="{{$compid__92}}"></upload><button type="primary" form-type="submit">提交评论</button></form></view></block>

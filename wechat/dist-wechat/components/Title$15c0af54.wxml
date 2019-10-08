@@ -1,0 +1,2 @@
+<import src="../components/slots.wxml" />
+<template name="Title$15c0af54"><view class="_div title {{ h[ 0 ].rcl }} v-31dd294a"><label class="_span v-31dd294a"></label> <button class="_button v-31dd294a">{{ h[ 4 ].t }}</button></view></template>

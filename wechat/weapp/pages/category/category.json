@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "list": "../../components/List/index",
+    "goods-cell": "../../components/GoodsCell/index",
+    "tip": "../../components/Tip/index",
+    "loading": "../../components/Loading/index"
+  },
+  "navigationBarTitleText": "全部分类"
+}

@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="order-coupon"><block><block wx:if="{{discount}}"><cell compid="{{$compid__152}}"><text>已减</text><price compid="{{$compid__153}}"></price></cell></block><block wx:else><cell compid="{{$compid__154}}"></cell></block></block></view></block>

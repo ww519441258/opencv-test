@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="{{style.root}}"><block><block wx:if="{{type === 'preset'}}"><text class="{{'iconfont icon-' + value}}" style="{{anonymousState__temp}}"></text></block><block wx:else><image src="{{value}}" mode="aspectFit" class="{{style.imageIcon}}" style="{{anonymousState__temp2}}"></image></block></block></view></block>

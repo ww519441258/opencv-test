@@ -1,0 +1,6 @@
+<import src="../components/slots.wxml" />
+<import src="../components/noContent$ba69a5a8.wxml" />
+<import src="../components/regimentDetails$1a6533f6.wxml" />
+<template name="regimentInfo$7c183fcb"><view class="_div app {{ h[ 0 ].rcl }} v-2ec65496"><view class="_div app-title v-2ec65496"><image class="_img v-2ec65496" src="{{ h[ 2 ][ 'src' ] }}"></image> <label class="_span v-2ec65496">拼团玩法</label></view> <view class="_div app-text v-2ec65496">
+        开团/参团>邀请好友>满员发货(不满员自动退款)
+    </view> <view class="_div app-con v-2ec65496"><template is="noContent$ba69a5a8" data="{{ ...$root[ cp + 0 + (_t || '') ], $root, _t: _t || '' }}" wx:if="{{ h[ 11 ]._if }}" /> <template is="regimentDetails$1a6533f6" data="{{ ...$root[ cp + 1 + (_t || '') ], $root, _t: _t || '' }}" wx:if="{{ h[ 14 ]._if }}" /></view></view></template>

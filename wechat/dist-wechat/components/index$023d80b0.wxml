@@ -1,0 +1,7 @@
+<import src="../components/slots.wxml" />
+<import src="../components/buttom$1123e489.wxml" />
+<import src="../components/sku$d5be8276.wxml" />
+<import src="../components/itemList$00cf4b73.wxml" />
+<import src="../components/toast$dfc63cb0.wxml" />
+<import src="../components/noContent$ba69a5a8.wxml" />
+<template name="index$023d80b0"><view wx:if="{{ h[ 0 ]._if }}" class="_div only {{ h[ 0 ].rcl }} v-342226b3"><block wx:if="{{ h[ 1 ]._if }}" class="_block v-342226b3"><template is="itemList$00cf4b73" data="{{ ...$root[ cp + 0 + (_t || '') + '-' + (item_i2 !== undefined ? item_i2 : idx) ], $root, _t: (_t || '') + '-' + (item_i2 !== undefined ? item_i2 : idx) }}" wx:for="{{ h[ 2 ].li }}" wx:key="idx" wx:for-item="item" wx:for-index="idx" /></block> <template is="noContent$ba69a5a8" data="{{ ...$root[ cp + 1 + (_t || '') ], $root, _t: _t || '' }}" wx:if="{{ h[ 5 ]._if }}" /> <template is="buttom$1123e489" data="{{ ...$root[ cp + 2 + (_t || '') ], $root, _t: _t || '' }}" /> <template is="sku$d5be8276" data="{{ ...$root[ cp + 3 + (_t || '') ], $root, _t: _t || '' }}" /> <template is="toast$dfc63cb0" data="{{ ...$root[ cp + 4 + (_t || '') ], $root, _t: _t || '' }}" /></view></template>

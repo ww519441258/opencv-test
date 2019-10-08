@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "order-item": "./OrderItem/index",
+    "price": "../../../components/Price/index",
+    "tabs": "../../../components/Tabs/index",
+    "list": "../../../components/List/index"
+  },
+  "navigationBarTitleText": "分销订单"
+}

@@ -1,0 +1,4 @@
+<import src="../components/slots.wxml" />
+<template name="bottom$4de07fac"><view class="_div app {{ h[ 0 ].rcl }} v-56f3a392"><view class="_div app-btn v-56f3a392" data-cid="{{ _c || c }}" data-hid="{{ 1 }}" bindtap="_pe">
+        确认兑换
+    </view></view></template>

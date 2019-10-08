@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "rate": "../../components/Rate/index",
+    "upload": "../../components/Upload/index"
+  },
+  "navigationBarTitleText": "评价"
+}

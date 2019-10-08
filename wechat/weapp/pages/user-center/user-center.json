@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "service-card": "./ServiceCard/index",
+    "price": "../../components/Price/index",
+    "user-info": "./UserInfo/index"
+  },
+  "navigationBarTitleText": "个人中心"
+}

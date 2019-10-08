@@ -1,0 +1,2 @@
+<import src="../components/slots.wxml" />
+<template name="upAndDown$77fa1574"><view class="_div app-con {{ h[ 0 ].rcl }} v-be12ba0e" data-cid="{{ _c || c }}" data-hid="{{ 0 }}" bindtap="_pe"><image class="_img app-con-img v-be12ba0e" src="{{ h[ 1 ][ 'src' ] }}"></image> <label class="_span app-con-title v-be12ba0e">{{ h[ 4 ].t }}</label> <template name="default$2"></template><template is="{{ s_default || 'default$2' }}" data="{{ ...$root[ c ], $root, _t: _t || '', _c: c }}"/></view></template>

@@ -1,0 +1,4 @@
+<import src="../components/slots.wxml" />
+<import src="../components/itemList$00cf4b73.wxml" />
+<import src="../components/Title$15c0af54.wxml" />
+<template name="newProduct$9f05585e"><view wx:if="{{ h[ 0 ]._if }}" class="_div newProduct {{ h[ 0 ].rcl }} v-5778b2c8"><template is="Title$15c0af54" data="{{ ...$root[ cp + 0 + (_t || '') ], $root, _t: _t || '' }}" /> <view class="_div newProduct-con v-5778b2c8"><template is="itemList$00cf4b73" data="{{ ...$root[ cp + 1 + (_t || '') + '-' + (item_i2 !== undefined ? item_i2 : idx) ], $root, _t: (_t || '') + '-' + (item_i2 !== undefined ? item_i2 : idx) }}" wx:for="{{ h[ 5 ].li }}" wx:key="idx" wx:for-item="item" wx:for-index="idx" /></view></view></template>

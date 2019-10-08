@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "stepper": "../../components/Stepper/index"
+  },
+  "navigationBarTitleText": "申请售后服务"
+}

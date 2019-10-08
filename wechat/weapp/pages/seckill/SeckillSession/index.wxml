@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="{{anonymousState__temp}}" style="{{anonymousState__temp2}}" bindtap="funPrivateRHMoR"><view class="{{style.name}}">{{name}}</view><view class="{{style.info}}">{{hasStarred ? '进行中' : '未开始'}}</view><view class="{{style.info}}">{{countdown}}{{hasStarred ? '结束' : '开始'}}</view></view></block>

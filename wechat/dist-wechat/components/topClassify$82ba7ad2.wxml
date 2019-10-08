@@ -1,0 +1,2 @@
+<import src="../components/slots.wxml" />
+<template name="topClassify$82ba7ad2"><view class="_div topClassify {{ h[ 0 ].rcl }} v-2e731148"><view class="_div classify v-2e731148"><image class="_img v-2e731148" src="{{ h[ 2 ][ 'src' ] }}"></image></view></view></template>

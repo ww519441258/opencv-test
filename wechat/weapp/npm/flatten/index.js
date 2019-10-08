@@ -1,0 +1,1 @@
+module.exports=function(r,e){return(e="number"==typeof e?e:1/0)?function t(r,u){return r.reduce(function(r,n){return Array.isArray(n)&&u<e?r.concat(t(n,u+1)):r.concat(n)},[])}(r,1):Array.isArray(r)?r.map(function(r){return r}):r};

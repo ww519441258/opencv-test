@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default={getPointsShopGoods:{url:"exchange",method:"GET"},submitPointsOrder:{url:"exchange/submit",method:"POST",needAccessToken:!0},exchangePointsOrder:{url:"exchange/exchange",method:"POST",needAccessToken:!0}};

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "payment-way-cell": "./PaymentWayCell/index"
+  }
+}

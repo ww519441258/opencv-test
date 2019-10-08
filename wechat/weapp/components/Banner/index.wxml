@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="banner" bindtap="goto"><image src="{{imageUrl}}" mode="widthFix"></image><view class="footer"><view class="title">{{title}}</view><block wx:if="{{price || marketPrice}}"><view class="price-bar"><price compid="{{$compid__179}}"></price></view></block></view></view></block>

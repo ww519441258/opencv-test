@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "address-cell": "../../components/AddressCell/index",
+    "tip": "../../components/Tip/index",
+    "loading": "../../components/Loading/index"
+  },
+  "navigationBarTitleText": "选择收货地址"
+}

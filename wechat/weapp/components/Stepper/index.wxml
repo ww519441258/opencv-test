@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="stepper"><button class="sub" disabled="{{min && value <= min}}" catchtap="sub">-</button><text class="value" catchtap="stopPropagation"><text>{{value}}</text></text><button class="add" disabled="{{max && value >= max}}" catchtap="add">+</button></view></block>

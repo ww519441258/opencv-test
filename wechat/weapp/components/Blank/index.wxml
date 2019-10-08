@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view style="{{anonymousState__temp}}"></view></block>

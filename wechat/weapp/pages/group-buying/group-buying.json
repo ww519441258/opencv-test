@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "tip": "../../components/Tip/index"
+  },
+  "navigationBarTitleText": "团购"
+}

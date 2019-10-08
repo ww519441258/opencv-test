@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "textarea": "/components/textarea/index"
+  },
+  "navigationBarTitleText": "填写评论"
+}

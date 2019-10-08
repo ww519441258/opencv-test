@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <meta content="width=device-width,initial-scale=1,user-scalable=no" name="viewport">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-touch-fullscreen" content="yes">
+  <meta name="format-detection" content="telephone=no,address=no">
+  <meta name="apple-mobile-web-app-status-bar-style" content="white">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title><?= Yii::$app->config->getConfig()->shop_name?></title>
+  <script>
+    !function(x){function w(){var v,u,t,tes,s=x.document,r=s.documentElement,a=r.getBoundingClientRect().width;if(!v&&!u){var n=!!x.navigator.appVersion.match(/AppleWebKit.*Mobile.*/);v=x.devicePixelRatio;tes=x.devicePixelRatio;v=n?v:1,u=1/v}if(a>=640){r.style.fontSize="40px"}else{if(a<=320){r.style.fontSize="20px"}else{r.style.fontSize=a/320*20+"px"}}}x.addEventListener("resize",function(){w()});w()}(window);
+  </script>
+  <script>
+    var openid = "<?= Yii::$app->user->identity->wx_openid ?>";
+    var title = "<?= Yii::$app->config->getConfig()->shop_name ?>";
+    var apiBase = "<?= Yii::$app->config->getConfig()->api_domain_name ?>";
+
+    // 用于自定义页面预览时隐藏浏览器滚动条
+    // 为了兼容 IE，不使用 URLSearchParams，手动用正则进行匹配
+    var hideScrollBar = location.search.match(/hide_scroll_bar=([0-1])/);
+    if (hideScrollBar && hideScrollBar[1] && hideScrollBar[1] === '1') {
+      var css = '::-webkit-scrollbar { width: 0 !important }';
+      var head = document.head || document.getElementsByTagName('head')[0];
+      var style = document.createElement('style');
+
+      style.type = 'text/css';
+      if (style.styleSheet) {
+        // 兼容 IE8
+        style.styleSheet.cssText = css;
+      } else {
+        style.appendChild(document.createTextNode(css));
+      }
+
+      head.appendChild(style);
+    }
+  </script>
+<link href="/m/css/app.122b7632fb2733e1bc99.css" rel="stylesheet"></head>
+<body>
+<div id="app"></div>
+<script type="text/javascript" src="/m/app.122b7632fb2733e1bc99.js"></script></body>
+</html>

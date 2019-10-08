@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var config={APIBaseURL:"https://apikcshop.kuaichuangkeji.com"};exports.default=config;

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "textarea": "/components/textarea/index"
+  },
+  "navigationBarTitleText": "申请售后"
+}

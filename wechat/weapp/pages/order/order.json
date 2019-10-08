@@ -1,0 +1,18 @@
+{
+  "usingComponents": {
+    "header": "./Header/index",
+    "brick": "./Brick/index",
+    "helper-for-taking-goods": "./HelperForTakingGoods/index",
+    "form-builder": "../../components/FormBuilder/index",
+    "goods-cell": "../../components/GoodsCell/index",
+    "regiment": "./Regiment/index",
+    "choose-shipping-type": "./ChooseShippingType/index",
+    "order-coupon": "./OrderCoupon/index",
+    "data-block": "./DataBlock/index",
+    "tip": "../../components/Tip/index",
+    "loading": "../../components/Loading/index",
+    "action-bar": "../../components/ActionBar/index",
+    "price": "../../components/Price/index"
+  },
+  "navigationBarTitleText": "订单详情"
+}

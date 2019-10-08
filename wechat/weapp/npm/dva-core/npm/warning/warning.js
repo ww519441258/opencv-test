@@ -1,0 +1,1 @@
+"use strict";var __DEV__=!1,warning=function(){};module.exports=warning;

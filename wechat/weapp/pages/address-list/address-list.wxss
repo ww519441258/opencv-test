@@ -1,0 +1,1 @@
+.address-list{height:100vh}.address-list .address-list__content{padding-bottom:150rpx}.address-list .address-list__content .list{width:100vw}.address-list .handle{position:fixed;bottom:0;width:100%;padding:10rpx 30rpx;-webkit-box-sizing:border-box;box-sizing:border-box}.address-list .handle Button{margin:10rpx 0}.address-list .tip{height:100vh}

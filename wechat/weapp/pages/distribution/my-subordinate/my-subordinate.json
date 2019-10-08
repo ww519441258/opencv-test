@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "user-cell": "../../../components/UserCell/index",
+    "tip": "../../../components/Tip/index",
+    "tabs": "../../../components/Tabs/index",
+    "loading": "../../../components/Loading/index"
+  },
+  "navigationBarTitleText": "我的下线"
+}

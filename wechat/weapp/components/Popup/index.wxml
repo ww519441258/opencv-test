@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="popup"><block><block wx:if="{{isShow}}"><view><view class="shade" bindtap="funPrivatehMXiM"></view><view class="{{_$anonymousState__temp}}"><slot></slot></view><block wx:if="{{!cannontClose}}"><view class="iconfont icon-close" bindtap="funPrivatehMXiM"></view></block></view></block></block></view></block>

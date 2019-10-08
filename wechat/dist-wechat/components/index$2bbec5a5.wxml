@@ -1,0 +1,4 @@
+<import src="../components/slots.wxml" />
+<import src="../components/buttom$1123e489.wxml" />
+<import src="../components/recommendText$696c8427.wxml" />
+<template name="index$2bbec5a5"><view wx:if="{{ h[ 0 ]._if }}" class="_div coll {{ h[ 0 ].rcl }} v-12d721a4"><block wx:for="{{ h[ 1 ].li }}" wx:key="idx" wx:for-item="item" wx:for-index="idx" class="_block v-12d721a4"><view class="_div coll-div v-12d721a4"><template is="recommendText$696c8427" data="{{ ...$root[ cp + 0 + (_t || '') + '-' + (item_i2 !== undefined ? item_i2 : idx) ], $root, _t: (_t || '') + '-' + (item_i2 !== undefined ? item_i2 : idx) }}" /></view> <view class="_p v-12d721a4"></view></block> <template is="buttom$1123e489" data="{{ ...$root[ cp + 1 + (_t || '') ], $root, _t: _t || '' }}" /></view></template>

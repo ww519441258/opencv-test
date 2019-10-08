@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "custom-layout": "../../components/CustomLayout/index",
+    "popup": "../../components/Popup/index",
+    "coupon": "../../components/Coupon/index",
+    "loading": "../../components/Loading/index"
+  },
+  "navigationBarTitleText": "首页"
+}

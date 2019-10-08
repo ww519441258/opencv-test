@@ -1,0 +1,1 @@
+.data-block{padding:10rpx 0;margin:10rpx 0;background:#fff}.data-block .cell{padding:20rpx 40rpx}.data-block .warning span,.data-block .warning text{margin-right:10rpx}.data-block .warning,.data-block .warning span,.data-block .warning text{color:#db2739}.data-block .description{color:#db8d27;font-size:.8em}

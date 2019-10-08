@@ -1,0 +1,11 @@
+<import src="../components/slots.wxml" />
+<import src="../components/buttom$1123e489.wxml" />
+<import src="../components/sku$d5be8276.wxml" />
+<import src="../components/topClassify$82ba7ad2.wxml" />
+<import src="../components/topNav$347a7da0.wxml" />
+<import src="../components/recommend$567f704c.wxml" />
+<import src="../components/newProduct$9f05585e.wxml" />
+<import src="../components/only$734f6dce.wxml" />
+<import src="../components/swiper$723ecd17.wxml" />
+<import src="../components/toast$dfc63cb0.wxml" />
+<template name="index$52ed1702"><view class="_div app {{ h[ 0 ].rcl }} v-1badc801"><view wx:if="{{ h[ 1 ]._if }}" class="_div v-1badc801"><template is="swiper$723ecd17" data="{{ ...$root[ cp + 0 + (_t || '') ], $root, _t: _t || '' }}" /> <template is="topNav$347a7da0" data="{{ ...$root[ cp + 1 + (_t || '') ], $root, _t: _t || '' }}" /> <template is="recommend$567f704c" data="{{ ...$root[ cp + 2 + (_t || '') ], $root, _t: _t || '' }}" /> <template is="newProduct$9f05585e" data="{{ ...$root[ cp + 3 + (_t || '') ], $root, _t: _t || '' }}" /> <template is="only$734f6dce" data="{{ ...$root[ cp + 4 + (_t || '') ], $root, _t: _t || '' }}" /> <template is="buttom$1123e489" data="{{ ...$root[ cp + 5 + (_t || '') ], $root, _t: _t || '' }}" /> <template is="sku$d5be8276" data="{{ ...$root[ cp + 6 + (_t || '') ], $root, _t: _t || '' }}" /></view> <view wx:if="{{ h[ 23 ]._if }}" class="_div showLogin v-1badc801"></view> <template is="toast$dfc63cb0" data="{{ ...$root[ cp + 7 + (_t || '') ], $root, _t: _t || '' }}" /></view></template>

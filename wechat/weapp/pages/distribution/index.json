@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "price": "../../components/Price/index",
+    "loading": "../../components/Loading/index"
+  },
+  "navigationBarTitleText": "分销中心"
+}

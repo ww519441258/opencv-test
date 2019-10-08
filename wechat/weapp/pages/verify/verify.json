@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "goods-cell": "../../components/GoodsCell/index",
+    "tip": "../../components/Tip/index",
+    "loading": "../../components/Loading/index"
+  },
+  "navigationBarTitleText": "核销虚拟商品"
+}

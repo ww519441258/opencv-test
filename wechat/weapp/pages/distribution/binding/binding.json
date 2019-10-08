@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "user-cell": "../../../components/UserCell/index",
+    "tip": "../../../components/Tip/index"
+  },
+  "navigationBarTitleText": "首页"
+}

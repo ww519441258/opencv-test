@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="record-user-info"><view class="iconfont icon-user"></view><view class="record-user-info__tip">{{is_record_again === '1' ? '授权已过期' : '第一次进入'}}，请点击下方按钮进行授权登录</view><button open-type="getUserInfo" type="primary" bindgetuserinfo="onGetUserInfo">授权登录</button></view></block>

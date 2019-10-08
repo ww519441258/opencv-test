@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="rich-text-pro" style="{{anonymousState__temp}}"><block><import src="../../utils/wxParse/wxParse.wxml"/><template is="wxParse" data="{{wxParseData:article.nodes}}"></template></block></view></block>

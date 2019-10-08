@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "textarea": "/components/textarea/index"
+  },
+  "navigationBarTitleText": "确认订单"
+}

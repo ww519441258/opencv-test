@@ -1,0 +1,2 @@
+<import src="../components/slots.wxml" />
+<template name="noContent$ba69a5a8"><view class="_div tips {{ h[ 0 ].rcl }} v-6eb4c21e">{{ h[ 1 ].t }}</view></template>

@@ -1,0 +1,2 @@
+<import src="../components/slots.wxml" />
+<template name="index$7bde9bd9"><view class="_div app {{ h[ 0 ].rcl }} v-14dae750"><button wx:if="{{ h[ 1 ]._if }}" class="_button button v-14dae750" open-type="getUserInfo" data-cid="{{ _c || c }}" data-hid="{{ 1 }}" bindgetuserinfo="_pe">点击授权，获取更多内容</button></view></template>

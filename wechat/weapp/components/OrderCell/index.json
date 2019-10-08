@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "goods-cell": "../GoodsCell/index",
+    "price": "../Price/index"
+  }
+}

@@ -1,0 +1,4 @@
+<import src="../components/slots.wxml" />
+<import src="../components/icon$315ce38c.wxml" />
+<import src="../components/upAndDown$77fa1574.wxml" />
+<template name="index$eed4b6d6"><view class="_div app {{ h[ 0 ].rcl }} v-770f3526"><template is="upAndDown$77fa1574" data="{{ ...$root[ cp + 0 + (_t || '') + '-' + (item_i2 !== undefined ? item_i2 : idx) ], $root, s_default: 'default_1', _t: (_t || '') + '-' + (item_i2 !== undefined ? item_i2 : idx) }}" wx:for="{{ h[ 1 ].li }}" wx:key="idx" wx:for-item="item" wx:for-index="idx" /></view></template>

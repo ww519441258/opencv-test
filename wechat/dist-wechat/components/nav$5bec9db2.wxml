@@ -1,0 +1,2 @@
+<import src="../components/slots.wxml" />
+<template name="nav$5bec9db2"><view class="_div app {{ h[ 0 ].rcl }} v-20f459f7"><view wx:for="{{ h[ 1 ].li }}" wx:key="idx" wx:for-item="item" wx:for-index="idx" class="_p v-20f459f7" data-cid="{{ _c || c }}" data-hid="{{ 1 + '-' + (item_i2 !== undefined ? item_i2 : idx) }}" bindtap="_pe"><label class="_span {{ h[ 2 + '-' + (item_i2 !== undefined ? item_i2 : idx) ].cl }} v-20f459f7">{{ h[ 3 + '-' + (item_i2 !== undefined ? item_i2 : idx) ].t }}</label></view></view></template>

@@ -1,0 +1,4 @@
+<import src="../components/slots.wxml" />
+<template name="button$4c4fda50"><view class="_div con-btn {{ h[ 0 ].rcl }} v-eea848ba"><view wx:if="{{ h[ 1 ]._if }}" class="_div v-eea848ba" data-cid="{{ _c || c }}" data-hid="{{ 1 }}" bindtap="_pe">取消订单</view> <view wx:if="{{ h[ 4 ]._if }}" class="_div btnshow v-eea848ba" data-cid="{{ _c || c }}" data-hid="{{ 4 }}" bindtap="_pe">付款</view> <view wx:if="{{ h[ 7 ]._if }}" class="_div btnshow v-eea848ba" data-cid="{{ _c || c }}" data-hid="{{ 7 }}" bindtap="_pe">
+        申请退款
+    </view> <view wx:if="{{ h[ 10 ]._if }}" class="_div btnshow v-eea848ba" data-cid="{{ _c || c }}" data-hid="{{ 10 }}" bindtap="_pe">确认收货</view> <view wx:if="{{ h[ 13 ]._if }}" class="_div btnshow v-eea848ba" data-cid="{{ _c || c }}" data-hid="{{ 13 }}" bindtap="_pe">{{ h[ 14 ].t }}</view> <view wx:if="{{ h[ 16 ]._if }}" class="_div btnshow v-eea848ba" data-cid="{{ _c || c }}" data-hid="{{ 16 }}" bindtap="_pe">{{ h[ 17 ].t }}</view></view></template>

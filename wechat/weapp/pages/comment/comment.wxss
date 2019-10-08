@@ -1,0 +1,1 @@
+.comment,.comment textarea{-webkit-box-sizing:border-box;box-sizing:border-box}.comment{background:#fff;padding:40rpx}.comment textarea{width:100%;padding:30rpx;margin:40rpx 0;border:1rpx solid #eee}.comment button{margin-top:40rpx}

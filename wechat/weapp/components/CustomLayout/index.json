@@ -1,0 +1,15 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tip": "../Tip/index",
+    "search": "../Search/index",
+    "swiper-x": "../SwiperX/index",
+    "nav-grid": "../../pages/index/NavGrid/index",
+    "part": "../../pages/index/Part/index",
+    "banner": "../Banner/index",
+    "rich-text-pro": "../RichTextPro/index",
+    "blank": "../Blank/index",
+    "divider": "../Divider/index",
+    "loading": "../Loading/index"
+  }
+}

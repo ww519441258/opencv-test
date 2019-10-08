@@ -1,0 +1,18 @@
+{
+  "usingComponents": {
+    "price": "../../components/Price/index",
+    "action-bar": "../../components/ActionBar/index",
+    "left-of-action-bar": "./LeftOfActionBar/index",
+    "activity-bar": "./ActivityBar/index",
+    "group-booking": "./GroupBooking/index",
+    "cell": "../../components/Cell/index",
+    "at-tabs": "../../npm/taro-ui/dist/weapp/components/tabs/index",
+    "at-tabs-pane": "../../npm/taro-ui/dist/weapp/components/tabs-pane/index",
+    "rich-text-pro": "../../components/RichTextPro/index",
+    "tip": "../../components/Tip/index",
+    "comment": "./Comment/index",
+    "sku": "./Sku/index",
+    "loading": "../../components/Loading/index"
+  },
+  "navigationBarTitleText": "商品详情"
+}

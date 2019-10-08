@@ -1,0 +1,82 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/user-center/user-center",
+    "pages/cart/cart",
+    "pages/category/category",
+    "pages/goods-detail/goods-detail",
+    "pages/goods-list/goods-list",
+    "pages/order/order",
+    "pages/pay-result/pay-result",
+    "pages/address-list/address-list",
+    "pages/edit-address/edit-address",
+    "pages/order-list/order-list",
+    "pages/after-sales/after-sales",
+    "pages/apply-after-sale/apply-after-sale",
+    "pages/distribution/index",
+    "pages/distribution/commission-detail/commission-detail",
+    "pages/distribution/distribution-order-list/distribution-order-list",
+    "pages/distribution/my-subordinate/my-subordinate",
+    "pages/distribution/qrcode-for-promotion/qrcode-for-promotion",
+    "pages/distribution/withdraw/withdraw",
+    "pages/distribution/withdraw-logs/withdraw-logs",
+    "pages/distribution/binding/binding",
+    "pages/choose-self-pick-up-site/choose-self-pick-up-site",
+    "pages/comment/comment",
+    "pages/group-booking/group-booking",
+    "pages/starred-goods/starred-goods",
+    "pages/recharge/recharge",
+    "pages/group-buying/group-buying",
+    "pages/seckill/seckill",
+    "pages/coupon-list/coupon-list",
+    "pages/own-coupon/own-coupon",
+    "pages/points-shop/points-shop",
+    "pages/logs-table/logs-table",
+    "pages/rank-info/rank-info",
+    "pages/record-user-info/record-user-info",
+    "pages/about/about",
+    "pages/custom-page/custom-page",
+    "pages/pay/pay",
+    "pages/refund/refund",
+    "pages/express-info/express-info",
+    "pages/verify/verify"
+  ],
+  "tabBar": {
+    "color": "#515151",
+    "selectedColor": "#d81e06",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "./images/home.png",
+        "selectedIconPath": "./images/home-active.png"
+      },
+      {
+        "pagePath": "pages/category/category",
+        "text": "分类",
+        "iconPath": "./images/category.png",
+        "selectedIconPath": "./images/category-active.png"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "text": "购物车",
+        "iconPath": "./images/cart.png",
+        "selectedIconPath": "./images/cart-active.png"
+      },
+      {
+        "pagePath": "pages/user-center/user-center",
+        "text": "个人中心",
+        "iconPath": "./images/user.png",
+        "selectedIconPath": "./images/user-active.png"
+      }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Kcshop",
+    "navigationBarTextStyle": "black",
+    "onReachBottomDistance": 200,
+    "enablePullDownRefresh": true
+  }
+}

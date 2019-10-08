@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "site-cell": "../../../components/SiteCell/index",
+    "cell": "../../../components/Cell/index",
+    "address-cell": "../../../components/AddressCell/index"
+  }
+}

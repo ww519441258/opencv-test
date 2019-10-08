@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="order-header"><view class="status"><text class="{{'iconfont icon-' + icon}}"></text><text>{{orderStatusText}}</text></view><block wx:if="{{dueTime}}"><view class="time"><view><text>剩余</text><text>{{dueTime}}</text></view><view><text class="tip-type">{{tipText}}</text></view></view></block></view></block>

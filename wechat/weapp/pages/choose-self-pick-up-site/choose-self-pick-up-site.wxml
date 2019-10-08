@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="choose-self-pick-up-site"><block><block wx:if="{{siteList}}"><site-cell wx:key="$original.id" wx:for="{{loopArray19}}" wx:for-item="site" wx:for-index="_anonIdx2" compid="{{site.$compid__90}}"></site-cell></block><block wx:else><loading></loading></block></block></view></block>

@@ -1,0 +1,1 @@
+.points-shop{background:#fff}.points-shop .points-shop__goods{width:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap}.points-shop .points-shop__goods div.goods-card,.points-shop .points-shop__goods goods-card{-webkit-flex-basis:33.33%;-ms-flex-preferred-size:33.33%;flex-basis:33.33%}

@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="{{style.page}}"><view class="{{style.header}}"><view class="price-big"><price compid="{{$compid__115}}"></price></view></view><payment-way compid="{{$compid__116}}"></payment-way><button type="primary" class="{{style.buttonPay}}" bindtap="pay">确认支付 {{amount + ' '}} 元</button></view></block>

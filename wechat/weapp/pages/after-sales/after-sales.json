@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "tip": "../../components/Tip/index",
+    "after-sales-cell": "./AfterSalesCell/index",
+    "tabs": "../../components/Tabs/index",
+    "list": "../../components/List/index",
+    "popup": "../../components/Popup/index"
+  },
+  "navigationBarTitleText": "售后服务"
+}

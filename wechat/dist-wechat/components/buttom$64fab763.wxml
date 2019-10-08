@@ -1,0 +1,4 @@
+<import src="../components/slots.wxml" />
+<template name="buttom$64fab763"><view class="_div nav {{ h[ 0 ].cl }} {{ h[ 0 ].rcl }} v-025f8aa4"><view class="_div nav0 v-025f8aa4" data-cid="{{ _c || c }}" data-hid="{{ 1 }}" bindtap="_pe"><image class="_img nav0-img v-025f8aa4" src="{{ h[ 2 ][ 'src' ] }}"></image></view> <view wx:if="{{ h[ 4 ]._if }}" class="_div nav1 {{ h[ 4 ].cl }} v-025f8aa4" data-cid="{{ _c || c }}" data-hid="{{ 4 }}" bindtap="_pe">{{ h[ 5 ].t }}</view> <view wx:if="{{ h[ 7 ]._if }}" class="_div nav2 {{ h[ 7 ].cl }} v-025f8aa4" data-cid="{{ _c || c }}" data-hid="{{ 7 }}" bindtap="_pe">{{ h[ 8 ].t }}</view> <view wx:if="{{ h[ 10 ]._if }}" class="_div nav3 v-025f8aa4" data-cid="{{ _c || c }}" data-hid="{{ 10 }}" bindtap="_pe">
+        加入拼团
+    </view></view></template>

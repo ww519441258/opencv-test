@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "price": "../../../components/Price/index",
+    "cell": "../../../components/Cell/index",
+    "loading": "../../../components/Loading/index"
+  },
+  "navigationBarTitleText": "佣金明细"
+}

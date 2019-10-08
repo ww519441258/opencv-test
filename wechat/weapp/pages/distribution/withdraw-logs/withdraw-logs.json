@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "price": "../../../components/Price/index",
+    "tabs": "../../../components/Tabs/index",
+    "list": "../../../components/List/index"
+  },
+  "navigationBarTitleText": "提现明细"
+}

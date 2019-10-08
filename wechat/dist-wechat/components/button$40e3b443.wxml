@@ -1,0 +1,2 @@
+<import src="../components/slots.wxml" />
+<template name="button$40e3b443"><view class="_div con-btn {{ h[ 0 ].rcl }} v-9fc280e4"><view wx:if="{{ h[ 1 ]._if }}" class="_div v-9fc280e4" data-cid="{{ _c || c }}" data-hid="{{ 1 }}" bindtap="_pe">取消申请</view> <view wx:if="{{ h[ 4 ]._if }}" class="_div btnshow v-9fc280e4" data-cid="{{ _c || c }}" data-hid="{{ 4 }}" bindtap="_pe">确认已寄出</view></view></template>

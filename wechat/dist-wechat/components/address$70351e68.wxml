@@ -1,0 +1,2 @@
+<import src="../components/slots.wxml" />
+<template name="address$70351e68"><view class="_div app-address1 {{ h[ 0 ].rcl }} v-33af4da6"><view class="_div address1-top v-33af4da6"><label class="_span v-33af4da6">{{ h[ 3 ].t }}</label> <label class="_span v-33af4da6">{{ h[ 6 ].t }}</label></view> <view class="_div address1-text v-33af4da6">{{ h[ 9 ].t }}</view></view></template>

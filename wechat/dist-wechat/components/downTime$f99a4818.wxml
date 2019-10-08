@@ -1,0 +1,2 @@
+<import src="../components/slots.wxml" />
+<template name="downTime$f99a4818"><view class="_div app {{ h[ 0 ].cl }} {{ h[ 0 ].rcl }} v-bd282402">{{ h[ 1 ].t }}</view></template>

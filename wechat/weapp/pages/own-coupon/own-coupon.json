@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "tabs": "../../components/Tabs/index",
+    "list": "../../components/List/index",
+    "coupon": "../../components/Coupon/index"
+  },
+  "navigationBarTitleText": "我的优惠券"
+}

@@ -1,0 +1,2 @@
+<import src="../../../components/index$27997856.wxml" />
+<template is="index$27997856" data="{{ ...$root['0'], $root }}"/>

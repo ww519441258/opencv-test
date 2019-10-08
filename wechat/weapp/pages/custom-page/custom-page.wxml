@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="custom-page.js"><block wx:if="{{layoutId}}"><custom-layout compid="{{$compid__114}}"></custom-layout></block></view></block>

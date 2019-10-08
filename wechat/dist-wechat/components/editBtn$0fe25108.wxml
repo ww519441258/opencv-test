@@ -1,0 +1,2 @@
+<import src="../components/slots.wxml" />
+<template name="editBtn$0fe25108"><view class="_div app {{ h[ 0 ].rcl }} v-631b8841" style="{{ h[ 0 ].st }}"><view class="_p v-631b8841" data-cid="{{ _c || c }}" data-hid="{{ 1 }}" bindtap="_pe">编辑</view> <view class="_p v-631b8841" data-cid="{{ _c || c }}" data-hid="{{ 4 }}" bindtap="_pe">删除</view> <view class="_p v-631b8841" data-cid="{{ _c || c }}" data-hid="{{ 7 }}" bindtap="_pe">取消</view></view></template>

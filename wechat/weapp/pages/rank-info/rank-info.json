@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "table": "../../components/Table/index"
+  },
+  "navigationBarTitleText": "会员等级特权"
+}

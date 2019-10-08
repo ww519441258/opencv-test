@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="payment-way"><view class="title">支付方式</view><radio-group class="payment-way__list"><payment-way-cell wx:key="$original.name" wx:for="{{loopArray47}}" wx:for-item="way" wx:for-index="_anonIdx2" compid="{{way.$compid__172}}"></payment-way-cell></radio-group></view></block>

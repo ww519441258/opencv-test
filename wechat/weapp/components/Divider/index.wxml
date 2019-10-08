@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="{{style.divider}}"><view style="{{anonymousState__temp}}"></view></view></block>

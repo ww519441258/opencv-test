@@ -1,0 +1,2 @@
+<import src="../components/slots.wxml" />
+<template name="icon$315ce38c"><view class="_div app-con-text {{ h[ 0 ].rcl }} v-6b29b2f6"><image class="_img v-6b29b2f6" src="{{ h[ 1 ][ 'src' ] }}"></image> <view class="_i v-6b29b2f6">{{ h[ 4 ].t }}</view></view></template>

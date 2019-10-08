@@ -1,0 +1,4 @@
+<import src="../components/slots.wxml" />
+<import src="../components/recommendText$696c8427.wxml" />
+<import src="../components/Title$15c0af54.wxml" />
+<template name="recommend$567f704c"><view wx:if="{{ h[ 0 ]._if }}" class="_div recommend {{ h[ 0 ].rcl }} v-51012a5f"><template is="Title$15c0af54" data="{{ ...$root[ cp + 0 + (_t || '') ], $root, _t: _t || '' }}" /> <template is="recommendText$696c8427" data="{{ ...$root[ cp + 1 + (_t || '') ], $root, _t: _t || '' }}" /></view></template>

@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="tabs"><view class="nav-tabs"><view wx:key="index" class="{{index === active ? 'active' : ''}}" bindtap="onChange" wx:for="{{tabs}}" wx:for-item="item" wx:for-index="index" data-e-tap-so="undefined" data-e-tap-a-a="{{index}}">{{item}}</view></view><view class="content"><slot></slot></view></view></block>

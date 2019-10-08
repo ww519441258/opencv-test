@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default={balance:{created_at:"时间",money:"变动金额",desc:"描述"},point:{change_time:"时间",change_point:"变动积分",desc:"描述"}};

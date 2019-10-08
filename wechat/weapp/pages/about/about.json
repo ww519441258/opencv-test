@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "loading": "../../components/Loading/index"
+  },
+  "navigationBarTitleText": "设置",
+  "enablePullDownRefresh": false
+}

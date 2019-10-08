@@ -1,0 +1,317 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "kcshop-taro",
+  "description": "kcshop 多端开发解决方案，基于 Taro。",
+  "appid": "wxdccdddaa336353e1",
+  "setting": {
+    "urlCheck": false,
+    "es6": false,
+    "postcss": false,
+    "minified": false,
+    "newFeature": true,
+    "autoAudits": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.8.0",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "plugin": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "miniprogram": {
+      "current": 1,
+      "list": [
+        {
+          "id": -1,
+          "name": "管理收货地址",
+          "pathName": "pages/address-list/address-list",
+          "query": ""
+        },
+        {
+          "id": 1,
+          "name": "商品详情",
+          "pathName": "pages/goods-detail/goods-detail",
+          "query": "id=177&__key_=15655727725751",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "新建收货地址",
+          "pathName": "pages/edit-address/edit-address",
+          "query": "id=99"
+        },
+        {
+          "id": 3,
+          "name": "订单详情页",
+          "pathName": "pages/order/order",
+          "query": "id=4137&__key_=15655719137663",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "选择收货地址",
+          "pathName": "pages/address-list/address-list",
+          "query": "choose=51&current=12"
+        },
+        {
+          "id": 5,
+          "name": "编辑收货地址",
+          "pathName": "pages/edit-address/edit-address",
+          "query": ""
+        },
+        {
+          "id": 6,
+          "name": "全部订单",
+          "pathName": "pages/order-list/order-list",
+          "query": "type=2",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "分销中心",
+          "pathName": "pages/distribution/index",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "佣金明细",
+          "pathName": "pages/distribution/commission-detail/commission-detail",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "推广二维码",
+          "pathName": "pages/distribution/qrcode-for-promotion/qrcode-for-promotion",
+          "query": ""
+        },
+        {
+          "id": 10,
+          "name": "我的下线",
+          "pathName": "pages/distribution/my-subordinate/my-subordinate",
+          "query": ""
+        },
+        {
+          "id": 11,
+          "name": "绑定",
+          "pathName": "pages/distribution/binding/binding",
+          "query": "scene=8b5893212b176cffe2b519293b36b632&__key_=15530895445751",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "选择自提点",
+          "pathName": "pages/choose-self-pick-up-site/choose-self-pick-up-site",
+          "query": "id=690&__key_=15371480164122"
+        },
+        {
+          "id": 13,
+          "name": "核销",
+          "pathName": "pages/order/order",
+          "query": "scene= 4107",
+          "scene": null
+        },
+        {
+          "id": 14,
+          "name": "评价",
+          "pathName": "pages/comment/comment",
+          "query": "ordergoods_id=1829&__key_=15433089080572"
+        },
+        {
+          "id": -1,
+          "name": "我的收藏",
+          "pathName": "pages/starred-goods/starred-goods",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "积分商城",
+          "pathName": "pages/points-shop/points-shop",
+          "query": ""
+        },
+        {
+          "id": 17,
+          "name": "优惠券",
+          "pathName": "pages/get-coupon/get-coupon",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "我的优惠券",
+          "pathName": "pages/own-coupon/own-coupon",
+          "query": ""
+        },
+        {
+          "id": 19,
+          "name": "选择优惠券",
+          "pathName": "pages/coupon-list/coupon-list",
+          "query": "mode=use&orderId=1748&__key_=154165854849017"
+        },
+        {
+          "id": 20,
+          "name": "余额记录",
+          "pathName": "pages/logs-table/logs-table",
+          "query": "type=balance&__key_=15402174820551"
+        },
+        {
+          "id": -1,
+          "name": "秒杀专区",
+          "pathName": "pages/seckill/seckill",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "售后服务",
+          "pathName": "pages/after-sales/after-sales",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "好友分享的团",
+          "pathName": "pages/goods-detail/goods-detail",
+          "query": "is_group_booking=1&id=1&regiment_id=69"
+        },
+        {
+          "id": -1,
+          "name": "记录用户信息",
+          "pathName": "pages/record-user-info/record-user-info",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "支付结果",
+          "pathName": "pages/pay-result/pay-result",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "个人中心",
+          "pathName": "pages/user-center/user-center",
+          "query": ""
+        },
+        {
+          "id": 27,
+          "name": "分类",
+          "pathName": "pages/goods-list/goods-list",
+          "query": "type=category&id=11&name=啦啦啦啦啦啦&__key_=15416811146011",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "全部分类",
+          "pathName": "pages/category/category",
+          "query": "type=category&id=11&name=啦啦啦啦啦啦&__key_=15416811146011"
+        },
+        {
+          "id": -1,
+          "name": "提现",
+          "pathName": "pages/distribution/withdraw/withdraw",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "分销订单",
+          "pathName": "pages/distribution/distribution-order-list/distribution-order-list",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "申请售后服务",
+          "pathName": "pages/apply-after-sale/apply-after-sale",
+          "query": "id=3382&number=1",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "自定义页面",
+          "pathName": "pages/custom-page/custom-page",
+          "query": "id=9",
+          "scene": null
+        },
+        {
+          "id": 33,
+          "name": "订单详情页",
+          "pathName": "pages/order/order",
+          "query": "id=2280&__key_=15532456623133",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "购物车",
+          "pathName": "pages/cart/cart",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "申请退款",
+          "pathName": "pages/refund/refund",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": 36,
+          "name": "支付",
+          "pathName": "pages/pay/pay",
+          "query": "orderId=2350&amount=869.40&__key_=15561724300926",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "物流信息",
+          "pathName": "pages/express-info/express-info",
+          "query": "orderId=2955&__key_=15536071238221",
+          "scene": null
+        },
+        {
+          "id": 38,
+          "name": "扫分销码进入首页",
+          "pathName": "pages/index/index",
+          "query": "scene=11111",
+          "scene": null
+        },
+        {
+          "id": 38,
+          "name": "从卡包进入商城",
+          "pathName": "pages/index/index",
+          "query": "card_id=pcDYGw6Rs64qvgGmwosb2GXjNlwQ&encrypt_code=Bbx5VKfQMSkkQNYg71FLm7E8s4BMBWcMuD2h0INQ%2FWE%3D",
+          "scene": null
+        },
+        {
+          "id": 40,
+          "name": "核销虚拟商品",
+          "pathName": "pages/verify/verify",
+          "query": "scene=wgpsaezo",
+          "scene": 1011
+        },
+        {
+          "id": 41,
+          "name": "商品列表",
+          "pathName": "pages/goods-list/goods-list",
+          "query": "type=status&status=hot&title=测试 😺&__key_=15589365855431",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "关于",
+          "pathName": "pages/about/about",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,4 @@
+<import src="../components/slots.wxml" />
+<import src="../components/list$685395e8.wxml" />
+<import src="../components/noContent$ba69a5a8.wxml" />
+<template name="index$6344edec"><view wx:if="{{ h[ 0 ]._if }}" class="_div app {{ h[ 0 ].rcl }} v-4b690844"><block wx:if="{{ h[ 1 ]._if }}" class="_block v-4b690844"><template is="list$685395e8" data="{{ ...$root[ cp + 0 + (_t || '') + '-' + (item_i2 !== undefined ? item_i2 : idx) ], $root, _t: (_t || '') + '-' + (item_i2 !== undefined ? item_i2 : idx) }}" wx:for="{{ h[ 2 ].li }}" wx:key="idx" wx:for-item="item" wx:for-index="idx" /></block> <template is="noContent$ba69a5a8" data="{{ ...$root[ cp + 1 + (_t || '') ], $root, _t: _t || '' }}" wx:if="{{ h[ 5 ]._if }}" /></view></template>

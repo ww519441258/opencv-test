@@ -1,0 +1,2 @@
+<import src="../components/slots.wxml" />
+<template name="toast$dfc63cb0"><view class="_div {{ h[ 0 ].rcl }} v-3964a8a6"><view wx:if="{{ h[ 1 ]._if }}" class="_div cyc-dialogs v-3964a8a6"><view class="_div cyc-dialog v-3964a8a6"><view class="_p v-3964a8a6">{{ h[ 4 ].t }}</view></view></view></view></template>

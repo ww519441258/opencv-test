@@ -1,0 +1,2 @@
+<import src="../components/slots.wxml" />
+<template name="infoText$10c4b121"><view class="_div con-h1 {{ h[ 0 ].rcl }} v-c6d326a8"><label class="_span v-c6d326a8">{{ h[ 2 ].t }}</label> <label class="_span h1show v-c6d326a8">{{ h[ 5 ].t }}</label></view></template>

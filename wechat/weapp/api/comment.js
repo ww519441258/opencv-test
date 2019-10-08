@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default={uploadImageForWeb:{url:"comment/file-uploading-picture",method:"POST",needAccessToken:!0},deleteImage:{url:"comment/delete-picture",method:"POST",needAccessToken:!0},submitComment:{url:"comment/deal-comment-data",method:"POST",header:{"content-type":"application/json"},needAccessToken:!0}};

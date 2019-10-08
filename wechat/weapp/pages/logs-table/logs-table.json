@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "table": "../../components/Table/index"
+  },
+  "navigationBarTitleText": "查看记录"
+}

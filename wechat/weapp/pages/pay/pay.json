@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "price": "../../components/Price/index",
+    "payment-way": "./PaymentWay/index"
+  },
+  "navigationBarTitleText": "支付"
+}

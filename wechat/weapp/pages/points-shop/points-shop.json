@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "goods-card": "../../components/GoodsCard/index",
+    "tip": "../../components/Tip/index",
+    "loading": "../../components/Loading/index"
+  },
+  "navigationBarTitleText": "积分商城"
+}

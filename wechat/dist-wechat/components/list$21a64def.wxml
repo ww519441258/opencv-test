@@ -1,0 +1,2 @@
+<import src="../components/slots.wxml" />
+<template name="list$21a64def"><view class="_div con-text {{ h[ 0 ].rcl }} v-58bcd80c"><image class="_img text-img v-58bcd80c" lazy-load="true" src="{{ h[ 1 ][ 'src' ] }}"></image> <view class="_div text-list v-58bcd80c"><view class="_div list1 v-58bcd80c">{{ h[ 5 ].t }}</view> <view class="_div list2 v-58bcd80c">{{ h[ 8 ].t }}</view></view></view></template>

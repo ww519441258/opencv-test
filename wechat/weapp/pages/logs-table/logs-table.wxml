@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="logs-table"><table compid="{{$compid__112}}"></table></view></block>

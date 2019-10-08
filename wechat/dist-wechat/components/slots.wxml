@@ -1,0 +1,7 @@
+<import src="../components/priceIcon$2077b90a.wxml" />
+<import src="../components/icon$315ce38c.wxml" />
+
+<template name="default_0" parent="index$27997856"><template is="priceIcon$2077b90a" data="{{ ...$root[ cp + 2 + (_t || '') ], $root, _t: _t || '' }}" /></template>
+
+<template name="default_1" parent="index$eed4b6d6"><template is="icon$315ce38c" data="{{ ...$root[ cp + 1 + (_t || '') ], $root, _t: _t || '' }}" /></template>
+

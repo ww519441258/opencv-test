@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="rank-info"><table compid="{{$compid__113}}"></table></view></block>

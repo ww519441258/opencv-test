@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "goods-cell": "../../components/GoodsCell/index",
+    "list": "../../components/List/index"
+  },
+  "navigationBarTitleText": "我的收藏"
+}

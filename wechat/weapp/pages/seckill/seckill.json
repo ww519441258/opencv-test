@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "seckill-session": "./SeckillSession/index",
+    "at-countdown": "../../npm/taro-ui/dist/weapp/components/countdown/index",
+    "goods-cell": "../../components/GoodsCell/index",
+    "tip": "../../components/Tip/index",
+    "loading": "../../components/Loading/index"
+  },
+  "navigationBarTitleText": "秒杀活动"
+}

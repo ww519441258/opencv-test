@@ -1,0 +1,2 @@
+<import src="../components/slots.wxml" />
+<template name="remarks$14a9a132"><view class="_div app {{ h[ 0 ].cl }} {{ h[ 0 ].rcl }} v-9fc05aa8"><textarea class="_textarea v-9fc05aa8" placeholder="{{ h[ 1 ][ 'placeholder' ] }}" maxlength="{{ h[ 1 ][ 'maxlength' ] }}" disabled="{{ h[ 1 ][ 'disabled' ] }}" value="{{ h[ 1 ].value }}" data-cid="{{ _c || c }}" data-hid="{{ 1 }}" bindinput="_pe"></textarea></view></template>

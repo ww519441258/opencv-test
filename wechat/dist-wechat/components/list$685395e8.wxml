@@ -1,0 +1,3 @@
+<import src="../components/slots.wxml" />
+<import src="../components/priceIcon$2077b90a.wxml" />
+<template name="list$685395e8"><view class="_div app {{ h[ 0 ].rcl }} v-72e7b733" data-cid="{{ _c || c }}" data-hid="{{ 0 }}" bindtap="_pe"><image class="_img app-img v-72e7b733" src="{{ h[ 1 ][ 'src' ] }}"></image> <view class="_div app-text v-72e7b733"><view class="_div app-title v-72e7b733">{{ h[ 5 ].t }}</view> <view class="_div app-con v-72e7b733"><template is="priceIcon$2077b90a" data="{{ ...$root[ cp + 0 + (_t || '') ], $root, _t: _t || '' }}" /> <label class="_span v-72e7b733">{{ h[ 12 ].t }}</label></view></view></view></template>

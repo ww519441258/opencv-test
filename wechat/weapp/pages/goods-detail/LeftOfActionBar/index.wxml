@@ -1,0 +1,1 @@
+<block wx:if="{{$taroCompReady}}"><view class="nav-btn"><view bindtap="gotoLink" data-e-tap-so="undefined" data-e-tap-a-a="/pages/cart/cart"><text class="iconfont icon-cart"></text></view><view bindtap="funPrivatelkVES"><text class="{{'iconfont ' + (isStarred ? 'icon-star-fill' : 'icon-star')}}"></text></view></view></block>

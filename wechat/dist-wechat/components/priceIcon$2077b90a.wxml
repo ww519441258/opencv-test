@@ -1,0 +1,2 @@
+<import src="../components/slots.wxml" />
+<template name="priceIcon$2077b90a"><view class="_div num {{ h[ 0 ].rcl }} v-4c1cdc82"><view class="_p v-4c1cdc82" style="{{ h[ 1 ].st }}">{{ h[ 2 ].t }}</view> <label class="_span v-4c1cdc82" style="{{ h[ 4 ].st }}">{{ h[ 5 ].t }}</label></view></template>

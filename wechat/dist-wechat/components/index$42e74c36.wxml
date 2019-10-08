@@ -1,0 +1,6 @@
+<import src="../components/slots.wxml" />
+<import src="../components/sku$d5be8276.wxml" />
+<import src="../components/presellList$4a97345b.wxml" />
+<import src="../components/toast$dfc63cb0.wxml" />
+<import src="../components/noContent$ba69a5a8.wxml" />
+<template name="index$42e74c36"><view wx:if="{{ h[ 0 ]._if }}" class="_div presell {{ h[ 0 ].rcl }} v-3ed45a38"><view wx:if="{{ h[ 1 ]._if }}" class="_div v-3ed45a38"><view class="_div presell-title v-3ed45a38">预售商品发货日期为结束日期</view> <template is="presellList$4a97345b" data="{{ ...$root[ cp + 0 + (_t || '') + '-' + (item_i2 !== undefined ? item_i2 : idx) ], $root, _t: (_t || '') + '-' + (item_i2 !== undefined ? item_i2 : idx) }}" wx:for="{{ h[ 5 ].li }}" wx:key="idx" wx:for-item="item" wx:for-index="idx" /> <template is="sku$d5be8276" data="{{ ...$root[ cp + 1 + (_t || '') ], $root, _t: _t || '' }}" /> <template is="toast$dfc63cb0" data="{{ ...$root[ cp + 2 + (_t || '') ], $root, _t: _t || '' }}" /></view> <template is="noContent$ba69a5a8" data="{{ ...$root[ cp + 3 + (_t || '') ], $root, _t: _t || '' }}" wx:if="{{ h[ 14 ]._if }}" /></view></template>

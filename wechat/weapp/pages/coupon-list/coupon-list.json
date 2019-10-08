@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "coupon": "../../components/Coupon/index",
+    "cell": "../../components/Cell/index",
+    "tip": "../../components/Tip/index",
+    "loading": "../../components/Loading/index"
+  },
+  "navigationBarTitleText": "优惠券"
+}
