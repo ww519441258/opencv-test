@@ -131,6 +131,8 @@ return [
                     'pluralize' => false,
                     'extraPatterns' => [
                         'GET cascade-classifier' => 'cascade-classifier',
+                        'GET detect-face-by-dnn-ssd' => 'detect-face-by-dnn-ssd',
+                        'GET upscale-imagex2-by-dnn-waifu2x' => 'upscale-imagex2-by-dnn-waifu2x',
                     ]
                 ],
             ],

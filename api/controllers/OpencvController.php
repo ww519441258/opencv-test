@@ -18,4 +18,19 @@ class OpencvController extends CommonController
     {
         Yii::$app->opencvtest->cascadeClassifier();
     }
+
+
+    public function actionDetectFaceByDnnSsd()
+    {
+        Yii::$app->opencvtest->detectFaceByDnnSsd();
+    }
+
+    /**
+     * 图片矢量放大2倍
+     */
+    public function actionUpscaleImagex2ByDnnWaifu2x()
+    {
+        Yii::$app->opencvtest->upscaleImagex2ByDnnWaifu2x();
+    }
+
 }
